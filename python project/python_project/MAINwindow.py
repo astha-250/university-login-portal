@@ -3,7 +3,7 @@ def open_admin_login():
     import admin_login
 def open_student_portal():
     import student_login
-
+# main window
 window = Tk()
 
 #WINDOW SIZE
@@ -24,4 +24,5 @@ button2.pack()
 button3.pack()
 
 window.mainloop()
+
 
