@@ -26,3 +26,6 @@ Team Members:
 
 Astha Jaiswal
 Satyam 
+T.Bhanu Uday Shankar
+K.Vivek
+P.Karthikeya
